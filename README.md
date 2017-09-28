@@ -1,12 +1,3 @@
-# :pencil2: Leetcode Solutions with Cpp,C,Java
-Update time:  2017-09-28 15:50:54
-Auto created by [leetcode_generate](https://github.com/bonfy/leetcode)
-I have solved **174   /   609** problems
-while there are **113** problems still locked.
-If you want to use this tool please follow this [Usage Guide](https://github.com/bonfy/leetcode/blob/master/README_leetcode_generate.md)
-If you have any question, please give me an [issue](https://github.com/xiechengsheng/leetcode/issues).
-If you are loving solving problems in leetcode, please contact me to enjoy it together!
-(Notes: :lock: means you need to buy a book from Leetcode to unlock the problem)
 | # | Title | Source Code | Article | Difficulty |
 |:---:|:---:|:---:|:---:|:---:|
 |1|[two-sum](https://leetcode.com/problems/two-sum)|[Cpp](https://github.com/xiechengsheng/leetcode/blob/master/001-two-sum/two-sum.cpp)|[:memo:](https://leetcode.com/articles/two-sum/)|Easy|
